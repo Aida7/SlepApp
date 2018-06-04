@@ -1,0 +1,7 @@
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\bin\Debug\SlepApp.exe.config
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\bin\Debug\SlepApp.exe
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\bin\Debug\SlepApp.pdb
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\obj\Debug\SlepApp.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\obj\Debug\SlepApp.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\obj\Debug\SlepApp.exe
+c:\users\садыковаа\source\repos\SlepApp\SlepApp\obj\Debug\SlepApp.pdb

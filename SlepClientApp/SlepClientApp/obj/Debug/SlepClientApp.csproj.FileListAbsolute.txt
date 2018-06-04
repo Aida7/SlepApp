@@ -1,0 +1,7 @@
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\bin\Debug\SlepClientApp.exe.config
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\bin\Debug\SlepClientApp.exe
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\bin\Debug\SlepClientApp.pdb
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\obj\Debug\SlepClientApp.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\obj\Debug\SlepClientApp.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\obj\Debug\SlepClientApp.exe
+c:\users\садыковаа\source\repos\SlepClientApp\SlepClientApp\obj\Debug\SlepClientApp.pdb
